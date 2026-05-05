@@ -1,0 +1,23 @@
+# Oracle
+ψ/active/
+ψ/memory/logs/
+ψ/learn/
+.awaken-state.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+credentials.json
+*.pem
+*.key
